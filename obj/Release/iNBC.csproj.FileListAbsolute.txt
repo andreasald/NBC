@@ -1,0 +1,387 @@
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\bin\Release\iNBC.exe.config
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\bin\Release\iNBC.exe.manifest
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\bin\Release\iNBC.application
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\bin\Release\iNBC.exe
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\bin\Release\iNBC.pdb
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.BTCUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.formEditPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.editPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Pemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.CSUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.CustomerUI.CetakKartuCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.EditCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.PengelolaanCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.TambahCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihPerawatan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihProduk.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.JadwalUI.CustomMessage.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.TambahJadwalBeautician.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.PengelolaanJadwal.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.TambahJadwalDokter.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.availablePromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.KasirUI.NotaA.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.potongPoin.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPembayaran.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Pembayaran.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.KKUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranNK.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranTransaksi.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.Perawatan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.PengelolaanPromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.TambahPromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.LoginForm.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.PengelolaanPegawai.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Boundary.Welcome.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.Properties.Resources.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.TambahPegawai.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.csproj.GenerateResource.Cache
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.exe.manifest
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.application
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.exe
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.pdb
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.43 - Independent Day II\iNBC\obj\Release\iNBC.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\bin\Release\iNBC.exe.config
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.exe
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.pdb
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\bin\Release\iNBC.exe.manifest
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\bin\Release\iNBC.application
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\bin\Release\iNBC.exe
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\bin\Release\iNBC.pdb
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.BTCUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.formEditPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.editPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Pemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.CSUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.CustomerUI.CetakKartuCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.EditCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.PengelolaanCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.TambahCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihPerawatan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihProduk.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.JadwalUI.CustomMessage.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.TambahJadwalBeautician.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.PengelolaanJadwal.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.TambahJadwalDokter.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.availablePromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.KasirUI.NotaA.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.potongPoin.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPembayaran.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Pembayaran.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.KKUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranNK.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranTransaksi.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.Perawatan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.PengelolaanPromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.TambahPromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.LoginForm.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.PengelolaanPegawai.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Boundary.Welcome.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.Properties.Resources.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.TambahPegawai.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.csproj.GenerateResource.Cache
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.exe.manifest
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\iNBC, No.3 Op.43 - Independent Day III\iNBC\obj\Release\iNBC.application
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\bin\Release\iNBC.exe.config
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.exe
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.pdb
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\bin\Release\iNBC.exe.manifest
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\bin\Release\iNBC.application
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\bin\Release\iNBC.exe
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\bin\Release\iNBC.pdb
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.BTCUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.formEditPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.editPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Pemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.CSUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.CustomerUI.CetakKartuCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.EditCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.PengelolaanCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.TambahCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihPerawatan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihProduk.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.JadwalUI.CustomMessage.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.TambahJadwalBeautician.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.PengelolaanJadwal.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.TambahJadwalDokter.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.availablePromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.KasirUI.NotaA.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.potongPoin.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPembayaran.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Pembayaran.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.KKUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranNK.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranTransaksi.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.Perawatan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.PengelolaanPromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.TambahPromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.LoginForm.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.PengelolaanPegawai.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Boundary.Welcome.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.Properties.Resources.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.TambahPegawai.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.csproj.GenerateResource.Cache
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.exe.manifest
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.1 - Reformation\iNBC\obj\Release\iNBC.application
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\bin\Release\iNBC.exe.config
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.exe
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.pdb
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\bin\Release\iNBC.exe.manifest
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\bin\Release\iNBC.application
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\bin\Release\iNBC.exe
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\bin\Release\iNBC.pdb
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.BTCUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.formEditPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.editPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Pemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.CSUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.CustomerUI.CetakKartuCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.EditCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.PengelolaanCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.TambahCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihPerawatan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihProduk.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.JadwalUI.CustomMessage.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.TambahJadwalBeautician.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.PengelolaanJadwal.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.TambahJadwalDokter.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.availablePromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.KasirUI.NotaA.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.potongPoin.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPembayaran.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Pembayaran.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.KKUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranNK.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranTransaksi.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.Perawatan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.PengelolaanPromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.TambahPromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.LoginForm.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.PengelolaanPegawai.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Boundary.Welcome.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.Properties.Resources.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.TambahPegawai.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.csproj.GenerateResource.Cache
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.exe.manifest
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.2 - Reformation II\iNBC\obj\Release\iNBC.application
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\bin\Release\iNBC.exe.config
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.exe
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.pdb
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\bin\Release\iNBC.exe.manifest
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\bin\Release\iNBC.application
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\bin\Release\iNBC.exe
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\bin\Release\iNBC.pdb
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.BTCUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.formEditPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.editPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Pemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.CSUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.CustomerUI.CetakKartuCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.EditCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.PengelolaanCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.TambahCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihPerawatan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihProduk.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.JadwalUI.CustomMessage.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.TambahJadwalBeautician.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.PengelolaanJadwal.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.TambahJadwalDokter.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.availablePromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.KasirUI.NotaA.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.potongPoin.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPembayaran.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Pembayaran.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.KKUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranNK.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranTransaksi.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.Perawatan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.PengelolaanPromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.TambahPromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.LoginForm.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.PengelolaanPegawai.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.Welcome.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Properties.Resources.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.TambahPegawai.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.csproj.GenerateResource.Cache
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.exe.manifest
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.application
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\bin\Release\iNBC.exe.config
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.exe
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.pdb
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\bin\Release\iNBC.exe.manifest
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\bin\Release\iNBC.application
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\bin\Release\iNBC.exe
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\bin\Release\iNBC.pdb
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.csprojResolveAssemblyReference.cache
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.BTCUI.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.formEditPemeriksaan.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.editPemeriksaan.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Pemeriksaan.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.CSUI.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.CustomerUI.CetakKartuCustomer.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.EditCustomer.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.PengelolaanCustomer.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.TambahCustomer.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPemeriksaan.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihPerawatan.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihProduk.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.JadwalUI.CustomMessage.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.TambahJadwalBeautician.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.PengelolaanJadwal.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.TambahJadwalDokter.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.availablePromo.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.KasirUI.NotaA.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.potongPoin.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPembayaran.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Pembayaran.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.KKUI.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranNK.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranTransaksi.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.Perawatan.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.PengelolaanPromo.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.TambahPromo.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.LoginForm.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.PengelolaanPegawai.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Boundary.Welcome.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.Properties.Resources.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.TambahPegawai.resources
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.csproj.GenerateResource.Cache
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.exe.manifest
+F:\iNBC, No.5 Op.3 - Reformation III\iNBC\obj\Release\iNBC.application
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\bin\Release\iNBC.exe.config
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.exe
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.pdb
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\bin\Release\iNBC.exe.manifest
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\bin\Release\iNBC.application
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\bin\Release\iNBC.exe
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\bin\Release\iNBC.pdb
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.csprojResolveAssemblyReference.cache
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.BTCUI.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.formEditPemeriksaan.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.editPemeriksaan.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Pemeriksaan.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.CSUI.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.CustomerUI.CetakKartuCustomer.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.EditCustomer.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.PengelolaanCustomer.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.TambahCustomer.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPemeriksaan.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihPerawatan.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihProduk.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.JadwalUI.CustomMessage.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.TambahJadwalBeautician.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.PengelolaanJadwal.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.TambahJadwalDokter.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.availablePromo.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.KasirUI.NotaA.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.potongPoin.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPembayaran.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Pembayaran.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.KKUI.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranNK.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranTransaksi.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.Perawatan.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.PengelolaanPromo.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.TambahPromo.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.LoginForm.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.PengelolaanPegawai.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Boundary.Welcome.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.Properties.Resources.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.TambahPegawai.resources
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.csproj.GenerateResource.Cache
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.exe.manifest
+F:\iNBC, No.5 Op.4 - Reformation IV\iNBC\obj\Release\iNBC.application
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\bin\Release\iNBC.exe.config
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.exe
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.pdb
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\bin\Release\iNBC.exe.manifest
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\bin\Release\iNBC.application
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\bin\Release\iNBC.exe
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\bin\Release\iNBC.pdb
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.BTCUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.formEditPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.editPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Pemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.CSUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.CustomerUI.CetakKartuCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.EditCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.PengelolaanCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.TambahCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihPerawatan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihProduk.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.JadwalUI.CustomMessage.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.TambahJadwalBeautician.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.PengelolaanJadwal.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.TambahJadwalDokter.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.availablePromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.KasirUI.NotaA.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.potongPoin.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPembayaran.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Pembayaran.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.KKUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranNK.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranTransaksi.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.Perawatan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.PengelolaanPromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.TambahPromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.LoginForm.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.PengelolaanPegawai.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Boundary.Welcome.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.Properties.Resources.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.TambahPegawai.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.csproj.GenerateResource.Cache
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.exe.manifest
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.6 - Reformation VI\iNBC\obj\Release\iNBC.application
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\bin\Release\iNBC.exe.config
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.exe
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.pdb
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\bin\Release\iNBC.exe.manifest
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\bin\Release\iNBC.application
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\bin\Release\iNBC.exe
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\bin\Release\iNBC.pdb
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.BTCUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.formEditPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.editPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Pemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.CSUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.CustomerUI.CetakKartuCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.EditCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.PengelolaanCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.TambahCustomer.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPemeriksaan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihPerawatan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PilihProduk.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.JadwalUI.CustomMessage.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.TambahJadwalBeautician.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.PengelolaanJadwal.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.TambahJadwalDokter.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.availablePromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.KasirUI.NotaA.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.potongPoin.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.inputPembayaran.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Pembayaran.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.KepalaKlinikUI.KKUI.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranNK.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.PendaftaranTransaksi.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.PendaftaranTransaksiUI.Perawatan.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.PengelolaanPromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.TambahPromo.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.LoginForm.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.PengelolaanPegawai.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Boundary.Welcome.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.Properties.Resources.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.TambahPegawai.resources
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.csproj.GenerateResource.Cache
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.exe.manifest
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.application
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 5\iNBC, No.5 Op.7 - Reformation VII\iNBC\obj\Release\iNBC.csprojResolveAssemblyReference.cache

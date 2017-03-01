@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DB644E49-5BA9-488C-AD0A-AE413FEED130}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>iNBC</RootNamespace>
+    <AssemblyName>iNBC</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>F:\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>3EADE7DC88D6D087F66F92CBDA5A57904B785120</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>iNBC_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>nbcPAM.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Boundary\BeauticianUI\BTCUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\BeauticianUI\BTCUI.Designer.cs">
+      <DependentUpon>BTCUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\DokterUI\formEditPemeriksaan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\DokterUI\formEditPemeriksaan.Designer.cs">
+      <DependentUpon>formEditPemeriksaan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\DokterUI\editPemeriksaan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\DokterUI\editPemeriksaan.Designer.cs">
+      <DependentUpon>editPemeriksaan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\DokterUI\Pemeriksaan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\DokterUI\Pemeriksaan.Designer.cs">
+      <DependentUpon>Pemeriksaan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\CustomerServiceUI\CSUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\CustomerServiceUI\CSUI.Designer.cs">
+      <DependentUpon>CSUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\CustomerUI\CetakKartuCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\CustomerUI\CetakKartuCustomer.Designer.cs">
+      <DependentUpon>CetakKartuCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\CustomerUI\EditCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\CustomerUI\EditCustomer.Designer.cs">
+      <DependentUpon>EditCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\CustomerUI\PengelolaanCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\CustomerUI\PengelolaanCustomer.Designer.cs">
+      <DependentUpon>PengelolaanCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\CustomerUI\TambahCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\CustomerUI\TambahCustomer.Designer.cs">
+      <DependentUpon>TambahCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\DokterUI\inputPemeriksaan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\DokterUI\inputPemeriksaan.Designer.cs">
+      <DependentUpon>inputPemeriksaan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\DokterUI\PilihPerawatan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\DokterUI\PilihPerawatan.Designer.cs">
+      <DependentUpon>PilihPerawatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\DokterUI\PilihProduk.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\DokterUI\PilihProduk.Designer.cs">
+      <DependentUpon>PilihProduk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\JadwalUI\CustomMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\JadwalUI\CustomMessage.Designer.cs">
+      <DependentUpon>CustomMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\JadwalUI\TambahJadwalBeautician.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\JadwalUI\TambahJadwalBeautician.Designer.cs">
+      <DependentUpon>TambahJadwalBeautician.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\JadwalUI\PengelolaanJadwal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\JadwalUI\PengelolaanJadwal.Designer.cs">
+      <DependentUpon>PengelolaanJadwal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\JadwalUI\TambahJadwalDokter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\JadwalUI\TambahJadwalDokter.Designer.cs">
+      <DependentUpon>TambahJadwalDokter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\KasirUI\availablePromo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\KasirUI\availablePromo.Designer.cs">
+      <DependentUpon>availablePromo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\KasirUI\Nota1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Nota1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Boundary\KasirUI\NotaA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\KasirUI\NotaA.Designer.cs">
+      <DependentUpon>NotaA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\KasirUI\potongPoin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\KasirUI\potongPoin.Designer.cs">
+      <DependentUpon>potongPoin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\KasirUI\inputPembayaran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\KasirUI\inputPembayaran.Designer.cs">
+      <DependentUpon>inputPembayaran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\KasirUI\Pembayaran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\KasirUI\Pembayaran.Designer.cs">
+      <DependentUpon>Pembayaran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\KepalaKlinikUI\KKUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\KepalaKlinikUI\KKUI.Designer.cs">
+      <DependentUpon>KKUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\PendaftaranTransaksiUI\PendaftaranNK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\PendaftaranTransaksiUI\PendaftaranNK.Designer.cs">
+      <DependentUpon>PendaftaranNK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\PendaftaranTransaksiUI\PendaftaranTransaksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\PendaftaranTransaksiUI\PendaftaranTransaksi.Designer.cs">
+      <DependentUpon>PendaftaranTransaksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\PendaftaranTransaksiUI\Perawatan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\PendaftaranTransaksiUI\Perawatan.Designer.cs">
+      <DependentUpon>Perawatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\PromoUI\PengelolaanPromo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\PromoUI\PengelolaanPromo.Designer.cs">
+      <DependentUpon>PengelolaanPromo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\PromoUI\TambahPromo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\PromoUI\TambahPromo.Designer.cs">
+      <DependentUpon>TambahPromo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\PegawaiUI\PengelolaanPegawai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\PegawaiUI\PengelolaanPegawai.Designer.cs">
+      <DependentUpon>PengelolaanPegawai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\BeauticianControl.cs" />
+    <Compile Include="Control\CustomerControl.cs" />
+    <Compile Include="Control\JadwalControl.cs" />
+    <Compile Include="Control\LoginControl.cs" />
+    <Compile Include="Control\PegawaiControl.cs" />
+    <Compile Include="Control\PembayaranControl.cs" />
+    <Compile Include="Control\PemeriksaanControl.cs" />
+    <Compile Include="Control\ProdukControl.cs" />
+    <Compile Include="Control\PromoControl.cs" />
+    <Compile Include="Control\TransactionControl.cs" />
+    <Compile Include="DataSetNBC.cs">
+      <DependentUpon>DataSetNBC.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSetNBC.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetNBC.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\Customer.cs" />
+    <Compile Include="Entity\DetilTransaksiPDK.cs" />
+    <Compile Include="Entity\DetilTransaksiPWT.cs" />
+    <Compile Include="Entity\Jadwal.cs" />
+    <Compile Include="Entity\Pegawai.cs" />
+    <Compile Include="Entity\PegawaixShift.cs" />
+    <Compile Include="Entity\PegawaiXTransaksi.cs" />
+    <Compile Include="Entity\Produk.cs" />
+    <Compile Include="Entity\Promo.cs" />
+    <Compile Include="Entity\Transaksi.cs" />
+    <Compile Include="KartuCustomer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KartuCustomer.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Boundary\PegawaiUI\TambahPegawai.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\PegawaiUI\TambahPegawai.Designer.cs">
+      <DependentUpon>TambahPegawai.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Boundary\BeauticianUI\BTCUI.resx">
+      <DependentUpon>BTCUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\DokterUI\formEditPemeriksaan.resx">
+      <DependentUpon>formEditPemeriksaan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\DokterUI\editPemeriksaan.resx">
+      <DependentUpon>editPemeriksaan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\DokterUI\Pemeriksaan.resx">
+      <DependentUpon>Pemeriksaan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\CustomerServiceUI\CSUI.resx">
+      <DependentUpon>CSUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\CustomerUI\CetakKartuCustomer.resx">
+      <DependentUpon>CetakKartuCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\CustomerUI\EditCustomer.resx">
+      <DependentUpon>EditCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\CustomerUI\PengelolaanCustomer.resx">
+      <DependentUpon>PengelolaanCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\CustomerUI\TambahCustomer.resx">
+      <DependentUpon>TambahCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\DokterUI\inputPemeriksaan.resx">
+      <DependentUpon>inputPemeriksaan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\DokterUI\PilihPerawatan.resx">
+      <DependentUpon>PilihPerawatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\DokterUI\PilihProduk.resx">
+      <DependentUpon>PilihProduk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\JadwalUI\CustomMessage.resx">
+      <DependentUpon>CustomMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\JadwalUI\TambahJadwalBeautician.resx">
+      <DependentUpon>TambahJadwalBeautician.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\JadwalUI\PengelolaanJadwal.resx">
+      <DependentUpon>PengelolaanJadwal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\JadwalUI\TambahJadwalDokter.resx">
+      <DependentUpon>TambahJadwalDokter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\KasirUI\availablePromo.resx">
+      <DependentUpon>availablePromo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\KasirUI\Nota1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Nota1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\KasirUI\NotaA.resx">
+      <DependentUpon>NotaA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\KasirUI\potongPoin.resx">
+      <DependentUpon>potongPoin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\KasirUI\inputPembayaran.resx">
+      <DependentUpon>inputPembayaran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\KasirUI\Pembayaran.resx">
+      <DependentUpon>Pembayaran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\KepalaKlinikUI\KKUI.resx">
+      <DependentUpon>KKUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\PendaftaranTransaksiUI\PendaftaranNK.resx">
+      <DependentUpon>PendaftaranNK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\PendaftaranTransaksiUI\PendaftaranTransaksi.resx">
+      <DependentUpon>PendaftaranTransaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\PendaftaranTransaksiUI\Perawatan.resx">
+      <DependentUpon>Perawatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\PromoUI\PengelolaanPromo.resx">
+      <DependentUpon>PengelolaanPromo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\PromoUI\TambahPromo.resx">
+      <DependentUpon>TambahPromo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\PegawaiUI\PengelolaanPegawai.resx">
+      <DependentUpon>PengelolaanPegawai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\Welcome.resx">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KartuCustomer.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>KartuCustomer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Boundary\PegawaiUI\TambahPegawai.resx">
+      <DependentUpon>TambahPegawai.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Entity\Role.cs" />
+    <None Include="DataSetNBC.xsc">
+      <DependentUpon>DataSetNBC.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetNBC.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetNBC.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetNBC.xss">
+      <DependentUpon>DataSetNBC.xsd</DependentUpon>
+    </None>
+    <None Include="iNBC_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar ori 512 .png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gift ori 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\onlinelogomaker-101016-1832-4760.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iNBC - Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer ori 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pendaftaran.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\success %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remakeNBC-HD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iNBCLogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\onlinelogomaker-111116-2229-5795.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="nbcPAM.ico" />
+    <Content Include="Properties\nbcPAM.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

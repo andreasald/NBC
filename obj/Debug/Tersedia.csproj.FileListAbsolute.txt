@@ -1,0 +1,3 @@
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.38 - Revolution III\iNBC\bin\Debug\iNBC.exe.config
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.38 - Revolution III\iNBC\obj\Debug\iNBC.exe
+C:\Users\Andreas\OneDrive\Kuliah\P3LP\1. Coding Sonata, in C-Sharp Major\No 3\iNBC, No.3 Op.38 - Revolution III\iNBC\obj\Debug\iNBC.pdb
